@@ -1,16 +1,8 @@
 # portfolio
 
-A new Flutter application.
+An application that gives a brief history about me
 
-## Getting Started
+## Below is the screenshot of how the application looks like 
 
-This project is a starting point for a Flutter application.
+![1621617651327](https://user-images.githubusercontent.com/40490934/119175151-64c29580-ba61-11eb-93da-9f35bb2c4704.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
